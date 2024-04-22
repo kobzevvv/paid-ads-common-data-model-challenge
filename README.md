@@ -2,9 +2,9 @@
 	Welcome to Marketing common data modelling challenge!
 
 ## Task
-	At Improvado, we use marketing common data models (MCDM) to map data from various ad platforms into a single one. MCDM can help marketers with questions like: "Where clicks better on facebook or tiktok?"
+	We use map data from various ad platforms into a single one. it can help marketers with questions like: "Where clicks better on facebook or tiktok?"
 
-Imagine that MCDM-model behind dashboard, is lost somehow. You need to rebuilt it. You have:
+Imagine that model behind dashboard, is lost somehow. You need to rebuilt it. You have:
 	— raw data from the ad systems (seeds folder),
 	- the MCDM table structure for this report, 
 	- and [dashboard](https://lookerstudio.google.com/reporting/fa668749-b82f-41a8-a12e-f7d9c0733b57/page/tEnnC)
@@ -46,7 +46,6 @@ To help you get started, here are some resources on how to use the necessary too
 
 ### Additional Resources:
 - Learn more about dbt [in the docs](https://docs.getdbt.com/docs/introduction)
-- [Short overview](https://improvado.io/products/mcdm) for Improvado MCDM
 
 ### How to Use the Repository
 This is the foundational repository for your project. Clone it and start your dbt Cloud from it.
