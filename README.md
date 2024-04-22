@@ -15,7 +15,7 @@ In this situation, we've got checklist that you can follow (or not):
 	- Use the raw data from the ad platforms and the MCDM table structure for the ads_basic_performance report.
 
 ### How to Submit
-please provide answer in the [typeform](https://improvado.typeform.com/to/efqlu4kP)
+please provide answer to the vladimir@growth.shop or telegram:@kobzevvv 
 -   A link to your dbt Cloud repository that contains the completed MCDM for the ads_basic_performance report.
 -   A link to the recreated dashboard.
 -   A brief set of instructions (in md file in your repo) for adding data from new ad platforms into your MCDM.
